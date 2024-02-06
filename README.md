@@ -3,11 +3,8 @@
 A new Flutter project.
 
 
-# Screenshot 1
+# Screenshots
 <img src="https://github.com/aakashx58/evbike/assets/106716824/0e869ce9-3495-43c9-84df-67dfc5deb1aa" height="400">
-
-
-# Screenshot 2
 <img src="https://github.com/aakashx58/evbike/assets/106716824/fb3c6a84-291a-4418-8ae9-04559ba08969" height="400">
 
 
