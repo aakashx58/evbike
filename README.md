@@ -4,15 +4,15 @@ A new Flutter project.
 
 
 # Screenshot 1
-![Screenshot1](https://github.com/aakashx58/evbike/assets/106716824/0e869ce9-3495-43c9-84df-67dfc5deb1aa)
+<img src="https://github.com/aakashx58/evbike/assets/106716824/0e869ce9-3495-43c9-84df-67dfc5deb1aa" height="400">
 
 
 # Screenshot 2
-![Screenshot2](https://github.com/aakashx58/evbike/assets/106716824/fb3c6a84-291a-4418-8ae9-04559ba08969)
+<img src="https://github.com/aakashx58/evbike/assets/106716824/fb3c6a84-291a-4418-8ae9-04559ba08969" height="400">
 
 
 # Result 
-![result](https://github.com/aakashx58/evbike/assets/106716824/3115966e-7cea-452f-982b-c380b02b4b55)
+<img src="https://github.com/aakashx58/evbike/assets/106716824/3115966e-7cea-452f-982b-c380b02b4b55" height="400">
 
 
 ## Getting Started
